@@ -22,3 +22,16 @@
     margin: 10px;
     padding: 0 !important;
 }
+
+.active{
+    border-radius: 10px;
+    background-color: #cecece;
+}
+
+.shadow{
+    box-shadow: 0 0 10px  #404040 !important;
+}
+
+.card:hover{
+    box-shadow: 0 0 10px  #676767;
+}
